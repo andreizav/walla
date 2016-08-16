@@ -1,0 +1,35 @@
+﻿<div class="main row col-md-12">
+    <div class="col-md-4 walla-left-block">
+        <div class="left-top col-md-12">
+            <div class="col-md-10">
+                <input type="text" class="form-control" id="exampleInputEmail1" placeholder="Email" ng-model="$ctrl.textToSearch">
+            </div>
+            <div class="col-md-2">
+                <button type="button" class="btn btn-default btn-lg walla-search-icon" ng-click="$ctrl.searchItem()">
+                    <span class="glyphicon glyphicon-search" aria-hidden="true"></span>
+                </button>
+            </div>
+            <div></div>
+        </div>
+
+        <div class="left-bottom col-md-12">
+            <div ng-repeat="item in $ctrl.currentItems track by $index">
+                <div class="col-md-12 choose-feed-block">
+                    <div class="col-md-10">
+                        <span ng-bind="item.title" class="cursor"  ng-click="$ctrl.selectItem(item)"></span>
+                    </div>
+                    <div class="col-md-2">
+                        <button type="button" class="btn btn-default btn-lg walla-search-icon" ng-click="$ctrl.removeItem(item)">
+                            <span class="glyphicon glyphicon-remove" aria-hidden="true"></span>
+                        </button>
+                    </div>
+                </div>               
+            </div>
+        </div>
+
+    </div>
+    <div class="col-md-8 walla-right-block">
+        <h2 ng-bind="$ctrl.selectedItem.title"></h2>
+        <feed ng-repeat="f in $ctrl.selectedItem.entries" feed="f"></feed>
+    </div>
+</div>

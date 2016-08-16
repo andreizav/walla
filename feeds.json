@@ -1,0 +1,608 @@
+﻿[
+  {
+    "feedUrl": "http://www.feedforall.com/sample.xml",
+    "title": "FeedForAll Sample Feed",
+    "link": "http://www.feedforall.com/industry-solutions.htm",
+    "author": "",
+    "description": "RSS is a fascinating technology. The uses for RSS are expanding daily. Take a closer look at how various industries are using the benefits of RSS in their businesses.",
+    "type": "rss20",
+    "entries": [
+      {
+        "title": "RSS Solutions for Restaurants",
+        "link": "http://www.feedforall.com/restaurant.htm",
+        "author": "",
+        "publishedDate": "Tue, 19 Oct 2004 08:09:11 -0700",
+        "contentSnippet": "FeedForAll helps Restaurant's communicate with customers. Let your customers know the latest specials or events.\n\nRSS feed uses ...",
+        "content": "<b>FeedForAll </b>helps Restaurant's communicate with customers. Let your customers know the latest specials or events.<br>\n<br>\nRSS feed uses include:<br>\n<i><font color=\"#FF0000\">Daily Specials <br>\nEntertainment <br>\nCalendar of Events </font></i>",
+        "categories": [
+          "Computers/Software/Internet/Site Management/Content Management"
+        ]
+      },
+      {
+        "title": "RSS Solutions for Schools and Colleges",
+        "link": "http://www.feedforall.com/schools.htm",
+        "author": "",
+        "publishedDate": "Tue, 19 Oct 2004 08:09:09 -0700",
+        "contentSnippet": "FeedForAll helps Educational Institutions communicate with students about school wide activities, events, and schedules.\n\nRSS ...",
+        "content": "FeedForAll helps Educational Institutions communicate with students about school wide activities, events, and schedules.<br>\n<br>\nRSS feed uses include:<br>\n<i><font color=\"#0000FF\">Homework Assignments <br>\nSchool Cancellations <br>\nCalendar of Events <br>\nSports Scores <br>\nClubs/Organization Meetings <br>\nLunches Menus </font></i>",
+        "categories": [
+          "Computers/Software/Internet/Site Management/Content Management"
+        ]
+      },
+      {
+        "title": "RSS Solutions for Computer Service Companies",
+        "link": "http://www.feedforall.com/computer-service.htm",
+        "author": "",
+        "publishedDate": "Tue, 19 Oct 2004 08:09:07 -0700",
+        "contentSnippet": "FeedForAll helps Computer Service Companies communicate with clients about cyber security and related issues. \n\nUses ...",
+        "content": "FeedForAll helps Computer Service Companies communicate with clients about cyber security and related issues. <br>\n<br>\nUses include:<br>\n<i><font color=\"#0000FF\">Cyber Security Alerts <br>\nSpecials<br>\nJob Postings </font></i>",
+        "categories": [
+          "Computers/Software/Internet/Site Management/Content Management"
+        ]
+      },
+      {
+        "title": "RSS Solutions for Governments",
+        "link": "http://www.feedforall.com/government.htm",
+        "author": "",
+        "publishedDate": "Tue, 19 Oct 2004 08:09:05 -0700",
+        "contentSnippet": "FeedForAll helps Governments communicate with the general public about positions on various issues, and keep the community ...",
+        "content": "FeedForAll helps Governments communicate with the general public about positions on various issues, and keep the community aware of changes in important legislative issues. <b><i><br>\n</i></b><br>\nRSS uses Include:<br>\n<i><font color=\"#00FF00\">Legislative Calendar<br>\nVotes<br>\nBulletins</font></i>",
+        "categories": [
+          "Computers/Software/Internet/Site Management/Content Management"
+        ]
+      },
+      {
+        "title": "RSS Solutions for Politicians",
+        "link": "http://www.feedforall.com/politics.htm",
+        "author": "",
+        "publishedDate": "Tue, 19 Oct 2004 08:09:03 -0700",
+        "contentSnippet": "FeedForAll helps Politicians communicate with the general public about positions on various issues, and keep the community ...",
+        "content": "FeedForAll helps Politicians communicate with the general public about positions on various issues, and keep the community notified of their schedule. <br>\n<br>\nUses Include:<br>\n<i><font color=\"#FF0000\">Blogs<br>\nSpeaking Engagements <br>\nStatements<br>\n </font></i>",
+        "categories": [
+          "Computers/Software/Internet/Site Management/Content Management"
+        ]
+      },
+      {
+        "title": "RSS Solutions for Meteorologists",
+        "link": "http://www.feedforall.com/weather.htm",
+        "author": "",
+        "publishedDate": "Tue, 19 Oct 2004 08:09:01 -0700",
+        "contentSnippet": "FeedForAll helps Meteorologists communicate with the general public about storm warnings and weather alerts, in specific ...",
+        "content": "FeedForAll helps Meteorologists communicate with the general public about storm warnings and weather alerts, in specific regions. Using RSS meteorologists are able to quickly disseminate urgent and life threatening weather warnings. <br>\n<br>\nUses Include:<br>\n<i><font color=\"#0000FF\">Weather Alerts<br>\nPlotting Storms<br>\nSchool Cancellations </font></i>",
+        "categories": [
+          "Computers/Software/Internet/Site Management/Content Management"
+        ]
+      },
+      {
+        "title": "RSS Solutions for Realtors & Real Estate Firms",
+        "link": "http://www.feedforall.com/real-estate.htm",
+        "author": "",
+        "publishedDate": "Tue, 19 Oct 2004 08:08:59 -0700",
+        "contentSnippet": "FeedForAll helps Realtors and Real Estate companies communicate with clients informing them of newly available properties, and ...",
+        "content": "FeedForAll helps Realtors and Real Estate companies communicate with clients informing them of newly available properties, and open house announcements. RSS helps to reach a targeted audience and spread the word in an inexpensive, professional manner. <font color=\"#0000FF\"><br>\n</font><br>\nFeeds can be used for:<br>\n<i><font color=\"#FF0000\">Open House Dates<br>\nNew Properties For Sale<br>\nMortgage Rates</font></i>",
+        "categories": [
+          "Computers/Software/Internet/Site Management/Content Management"
+        ]
+      },
+      {
+        "title": "RSS Solutions for Banks / Mortgage Companies",
+        "link": "http://www.feedforall.com/banks.htm",
+        "author": "",
+        "publishedDate": "Tue, 19 Oct 2004 08:08:57 -0700",
+        "contentSnippet": "FeedForAll helps Banks, Credit Unions and Mortgage companies communicate with the general public about rate changes in a prompt ...",
+        "content": "FeedForAll helps <b>Banks, Credit Unions and Mortgage companies</b> communicate with the general public about rate changes in a prompt and professional manner. <br>\n<br>\nUses include:<br>\n<i><font color=\"#0000FF\">Mortgage Rates<br>\nForeign Exchange Rates <br>\nBank Rates<br>\nSpecials</font></i>",
+        "categories": [
+          "Computers/Software/Internet/Site Management/Content Management"
+        ]
+      },
+      {
+        "title": "RSS Solutions for Law Enforcement",
+        "link": "http://www.feedforall.com/law-enforcement.htm",
+        "author": "",
+        "publishedDate": "Tue, 19 Oct 2004 08:08:56 -0700",
+        "contentSnippet": "FeedForAll helps Law Enforcement Professionals communicate with the general public and other agencies in a prompt and efficient ...",
+        "content": "<b>FeedForAll</b> helps Law Enforcement Professionals communicate with the general public and other agencies in a prompt and efficient manner. Using RSS police are able to quickly disseminate urgent and life threatening information. <br>\n<br>\nUses include:<br>\n<i><font color=\"#0000FF\">Amber Alerts<br>\nSex Offender Community Notification <br>\nWeather Alerts <br>\nScheduling <br>\nSecurity Alerts <br>\nPolice Report <br>\nMeetings</font></i>",
+        "categories": [
+          "Computers/Software/Internet/Site Management/Content Management"
+        ]
+      }
+    ]
+  },
+  {
+    "feedUrl": "http://www.feedforall.com/sample-feed.xml",
+    "title": "Sample Feed - Favorite RSS Related Software & Resources",
+    "link": "http://www.feedforall.com",
+    "author": "",
+    "description": "Take a look at some of FeedForAll's favorite software and resources for learning more about RSS.",
+    "type": "rss20",
+    "entries": [
+      {
+        "title": "RSS Resources",
+        "link": "http://www.feedforall.com",
+        "author": "",
+        "publishedDate": "Tue, 26 Oct 2004 12:01:01 -0700",
+        "contentSnippet": "Be sure to take a look at some of our favorite RSS Resources\nRSS Specifications\nBlog Connection\n",
+        "content": "Be sure to take a look at some of our favorite RSS Resources<br>\n<a href=\"http://www.rss-specifications.com\">RSS Specifications</a><br>\n<a href=\"http://www.blog-connection.com\">Blog Connection</a><br>\n<br>",
+        "categories": [ ]
+      },
+      {
+        "title": "Recommended Desktop Feed Reader Software",
+        "link": "http://www.feedforall.com/feedforall-partners.htm",
+        "author": "",
+        "publishedDate": "Tue, 26 Oct 2004 12:03:25 -0700",
+        "contentSnippet": "FeedDemon enables you to quickly read and gather information from hundreds of web sites - without having to visit them. Don't ...",
+        "content": "<b>FeedDemon</b> enables you to quickly read and gather information from hundreds of web sites - without having to visit them. Don't waste any more time checking your favorite web sites for updates. Instead, use FeedDemon and make them come to you. <br>\nMore <a href=\"http://store.esellerate.net/a.asp?c=1_SKU5139890208_AFL403073819\">FeedDemon Information</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Recommended Web Based Feed Reader Software",
+        "link": "http://www.feedforall.com/feedforall-partners.htm",
+        "author": "",
+        "publishedDate": "Tue, 26 Oct 2004 12:06:44 -0700",
+        "contentSnippet": "FeedScout enables you to view RSS/ATOM/RDF feeds from different sites directly in Internet Explorer. You can even set your Home ...",
+        "content": "<b>FeedScout</b> enables you to view RSS/ATOM/RDF feeds from different sites directly in Internet Explorer. You can even set your Home Page to show favorite feeds. Feed Scout is a plug-in for Internet Explorer, so you won't have to learn anything except for how to press 2 new buttons on Internet Explorer toolbar. <br>\nMore <a href=\"http://www.bytescout.com/feedscout.html\">Information on FeedScout</a><br>\n<br>\n<br>\n<b>SurfPack</b> can feature search tools, horoscopes, current weather conditions, LiveJournal diaries, humor, web modules and other dynamically updated content. <br>\nMore <a href=\"http://www.surfpack.com/\">Information on SurfPack</a><br>",
+        "categories": [ ]
+      }
+    ]
+  },
+  {
+    "feedUrl": "http://www.feedforall.com/blog-feed.xml",
+    "title": "An RSS Daily News Feed from FeedForAll - RSS Feed Creation.",
+    "link": "http://www.feedforall.com/blog.htm",
+    "author": "",
+    "description": "RSS is a fascinating technology. The uses for RSS are expanding daily. Take a closer look at how various industries are using the benefits of RSS in their businesses. New information related to RSS feeds and using RSS for marketing is posted on a regular basis.",
+    "type": "rss20",
+    "entries": [
+      {
+        "title": "RSS Feed Filtering Script",
+        "link": "http://www.feedforall.com/blog.htm#899",
+        "author": "",
+        "publishedDate": "Wed, 31 Aug 2016 06:00:00 -0700",
+        "contentSnippet": "RSSFilter is a PHP script that filters the contents of an RSS feed. The filters can be defined by the publisher so that the ...",
+        "content": "RSSFilter is a PHP script that filters the contents of an RSS feed. The filters can be defined by the publisher so that the resulting RSS feed contains only the information they want. RSSFilter uses rules to filter the items that are included from a feed in the resulting feed. <br>\n<br>\n<a href=\"http://www.feedforall.com/rssfilter.htm\">RSS Filter</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Creative Podcasting for Businesses",
+        "link": "http://www.feedforall.com/blog.htm#898",
+        "author": "",
+        "publishedDate": "Mon, 29 Aug 2016 06:00:00 -0700",
+        "contentSnippet": "Podcasting content comes in a wide variety of shapes and sizes. Businesses are finding many different and creative ways of ...",
+        "content": "Podcasting content comes in a wide variety of shapes and sizes. Businesses are finding many different and creative ways of incorporating podcasts into their business strategies and marketing plans.<br>\n<br>\nHere are just some of the various types of content that businesses are turning into podcasts... <br>\n<br>\n<a href=\"http://www.feedforall.com/creative-podcasting-for-businesses.htm\">Creative Podcasting for Businesses</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "RSS2HTML Templates",
+        "link": "http://www.feedforall.com/blog.htm#897",
+        "author": "",
+        "publishedDate": "Fri, 26 Aug 2016 06:00:00 -0700",
+        "contentSnippet": "The following are rss2html HTML templates that can be used in conjunction with the rss2html.php script to display RSS feeds as ...",
+        "content": "The following are rss2html HTML templates that can be used in conjunction with the rss2html.php script to display RSS feeds as HTML web pages.<br>\n<br>\n<a href=\"http://www.feedforall.com/rss2html/index.htm\">RSS2HTML Templates</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Promote A Blog",
+        "link": "http://www.feedforall.com/blog.htm#896",
+        "author": "",
+        "publishedDate": "Wed, 24 Aug 2016 06:00:00 -0700",
+        "contentSnippet": "Syndication is conceptually simple. It allows publishers to distribute content that can be displayed in another location or ...",
+        "content": "Syndication is conceptually simple. It allows publishers to distribute content that can be displayed in another location or context. Using RSS, publishers are able to easily create and disseminate content feeds that include news headlines, blog summaries and related links. RSS is the defined syndication standard that has become mainstream. All types of information are now available in a syndicated format.<br>\n<br>\n<a href=\"http://www.feedforall.com/promote-a-blog.htm\">Promote a Blog</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "The Rewards of Podcasting",
+        "link": "http://www.feedforall.com/blog.htm#895",
+        "author": "",
+        "publishedDate": "Mon, 22 Aug 2016 06:00:00 -0700",
+        "contentSnippet": "Getting started with podcasting is a relatively inexpensive venture. The equipment and software required for podcasting is ...",
+        "content": "Getting started with podcasting is a relatively inexpensive venture. The equipment and software required for podcasting is inexpensive for a business contemplating podcasting as a new marketing and communication adventure. <br>\n<br>\n<a href=\"http://www.feedforall.com/the-rewards-of-podcasting.htm\">The Rewards of Podcasting</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Pros and Cons of RSS Feeds",
+        "link": "http://www.feedforall.com/blog.htm#894",
+        "author": "",
+        "publishedDate": "Fri, 19 Aug 2016 06:00:00 -0700",
+        "contentSnippet": "If you are struggling with the decision of whether to implement RSS feeds or not, consider the following pros and cons for ...",
+        "content": "If you are struggling with the decision of whether to implement RSS feeds or not, consider the following pros and cons for webmasters who use RSS feeds as part of their content and communication plan... <br>\n<br>\n<a href=\"http://www.feedforall.com/pros-and-cons-of-rss-feeds.htm\">Pros and Cons of RSS Feeds</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "RSS2HTML Pro",
+        "link": "http://www.feedforall.com/blog.htm#893",
+        "author": "",
+        "publishedDate": "Wed, 17 Aug 2016 06:00:00 -0700",
+        "contentSnippet": "The RSS2HTML Pro is an add on script that expands the functionality of the RSS2HTML script. \n\nRSS2HTML Pro",
+        "content": "The RSS2HTML Pro is an add on script that expands the functionality of the RSS2HTML script. <br>\n<br>\n<a href=\"http://www.feedforall.com/rss2html-pro.htm\">RSS2HTML Pro</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Podcast Audio Recording Tips",
+        "link": "http://www.feedforall.com/blog.htm#892",
+        "author": "",
+        "publishedDate": "Mon, 15 Aug 2016 06:00:00 -0700",
+        "contentSnippet": "Before you begin podcasting develop a plan and a format for your show. Determine the focus of your podcast and what types of ...",
+        "content": "Before you begin podcasting develop a plan and a format for your show. Determine the focus of your podcast and what types of guests you would like to interview. Time spent planning your show will contribute to it's success.<br>\n<br>\nLocation, Location, Location <br>\nWhen you are producing a podcast on a regular basis it is important that you select an appropriate location for the recording to take place. The location should be free of external distractions and relatively quiet. It is easiest if you use the same location each time, that way the equipment can remain in place and will not require moving or setup each time you produce a show.<br>\n<br>\n<a href=\"http://www.feedforall.com/podcast-audio-recording-tips.htm\">Podcast Audio Recording Tips</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Tips for Blogs",
+        "link": "http://www.feedforall.com/blog.htm#891",
+        "author": "",
+        "publishedDate": "Fri, 12 Aug 2016 06:00:00 -0700",
+        "contentSnippet": "Tips for creating a blog.\nThere are no hard and fast rules on how to blog. Having said that, bloggers will likely increase ...",
+        "content": "Tips for creating a blog.<br>\nThere are no hard and fast rules on how to blog. Having said that, bloggers will likely increase their exposure by following some simple blog guidelines. <br>\n<br>\n1.) Stay on topic.<br>\nOpinions are generally accepted but the content of the items in the blog should all relate to a general theme. Unless you have an uncanny knack for wit, humor or cynicism, the majority of your readers will be interested in the content that relates to a specific defined theme or loosely defined area of interest. Most readers won't care that you eat Cheerios for breakfast. They may, however, be interested in the fact that vinegar takes out stains and that toilet paper rolls make great wreaths. Define a topic and stick to it. This will ensure that you create a loyal following of interested readers.<br>\n<br>\n<a href=\"http://www.feedforall.com/tips-for-blogs.htm\">Tips for Blogs</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "What Can be Published Using RSS Feeds?",
+        "link": "http://www.feedforall.com/blog.htm#890",
+        "author": "",
+        "publishedDate": "Wed, 10 Aug 2016 06:00:00 -0700",
+        "contentSnippet": "With all the vast amounts of information available on the web, it is becoming more and more difficult to sort through and find ...",
+        "content": "With all the vast amounts of information available on the web, it is becoming more and more difficult to sort through and find what you are looking for. RSS significantly lowers the signal-to-noise ratio. RSS has the unique ability to compile information and filter it, so you only see unique and relevant content. The information superhighway has become packed with content, and those familiar with technology are using RSS to filter the content, allowing them to drill down and access only the content they want, without having to wade through all the noise. <br>\n<br>\n<a href=\"http://www.feedforall.com/what-can-be-published-using-rss.htm\">What Can be Published Using RSS Feeds?</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "RSS Mesh",
+        "link": "http://www.feedforall.com/blog.htm#889",
+        "author": "",
+        "publishedDate": "Mon, 08 Aug 2016 06:00:00 -0700",
+        "contentSnippet": "The RSS Mesh script is used to merge multiple RSS feeds into a single RSS feed. \n\nRSS Mesh",
+        "content": "The RSS Mesh script is used to merge multiple RSS feeds into a single RSS feed. <br>\n<br>\n<a href=\"http://www.feedforall.com/rssmesh.htm\">RSS Mesh</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Set Your Podcast Up for Success",
+        "link": "http://www.feedforall.com/blog.htm#888",
+        "author": "",
+        "publishedDate": "Fri, 05 Aug 2016 06:00:46 -0700",
+        "contentSnippet": "\n1. Plan Accordingly. \nWhen making the decision and commitment to podcast, it is important to think beyond the moment. Before ...",
+        "content": "<br>\n1. Plan Accordingly. <br>\nWhen making the decision and commitment to podcast, it is important to think beyond the moment. Before starting, think about the time the podcast production will take. How will podcasting fit into a current schedule? How frequently will you podcast?<br>\n<br>\n<br>\n<a href=\"http://www.feedforall.com/podcasting-tips.htm\">Set Your Podcast Up for Success</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Advertising in RSS Feeds",
+        "link": "http://www.feedforall.com/blog.htm#887",
+        "author": "",
+        "publishedDate": "Mon, 01 Aug 2016 06:00:00 -0700",
+        "contentSnippet": "As publishers have moved towards monetizing RSS feeds, their have been vibrant discussions as to whether advertisements in ...",
+        "content": "As publishers have moved towards monetizing RSS feeds, their have been vibrant discussions as to whether advertisements in feeds are viable or whether they will drive subscribers away. At the end of the day while it appears that many are discussing the philosophical approaches to ads in RSS feeds few are taking the time to examine the options available for inserting advertisements in feeds. Ultimately the advertisements served are going to determine the success of RSS as an advertising medium. <br>\n<br>\n<a href=\"http://www.feedforall.com/advertising-in-rss.htm\">Advertising in RSS Feeds</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "RSS Feed Innovation",
+        "link": "http://www.feedforall.com/blog.htm#886",
+        "author": "",
+        "publishedDate": "Fri, 29 Jul 2016 06:00:00 -0700",
+        "contentSnippet": "RSS, or Really Simple Syndication, is a new way to broadcast corporate news and structured information. RSS offers a quick, ...",
+        "content": "RSS, or Really Simple Syndication, is a new way to broadcast corporate news and structured information. RSS offers a quick, easy corporate communication channel. The RSS contents are published as a feed and the feed's content keep customers, partners and journalists abreast of corporate news and information. The RSS feeds are read using a tool referred to as a news aggregator, or an RSS reader. The aggregator periodically checks to see if the RSS feed has been updated. As the feed is updated, new information will automatically appear in the RSS reader. <br>\n<br>\n<a href=\"http://www.feedforall.com/innovative-rss.htm\">RSS Feed Innovation</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "RSS Feed Security",
+        "link": "http://www.feedforall.com/blog.htm#885",
+        "author": "",
+        "publishedDate": "Wed, 27 Jul 2016 06:00:00 -0700",
+        "contentSnippet": "RSS is growing at a lightening speed. What was once only known as a techie tool, RSS is becoming a tool that is continuously ...",
+        "content": "RSS is growing at a lightening speed. What was once only known as a <i>techie tool,</i> RSS is becoming a tool that is continuously being used by the general population. Along with the good comes, the not so good. And while some have mentioned the emergence of RSS spam, where content publishers dynamically generate nonsensical feeds stuffed with keywords, the real concern relates to security. While an annoyance to the search engines, spam in RSS feeds pales in comparison to the possible security concerns that could be in RSS future. <br>\n<br>\n<a href=\"http://www.feedforall.com/rss-security.htm\">RSS Feed Security</a><br>\n<br>",
+        "categories": [ ]
+      },
+      {
+        "title": "How to Add and Remove Files to RecordForAll",
+        "link": "http://www.feedforall.com/blog.htm#884",
+        "author": "",
+        "publishedDate": "Mon, 25 Jul 2016 06:00:00 -0700",
+        "contentSnippet": "\nIn this tutorial, we will be going over how to add and remove files from the list.\n\nThe first step is to run the program, so, ...",
+        "content": "<br>\nIn this tutorial, we will be going over how to add and remove files from the list.<br>\n<br>\nThe first step is to run the program, so, find the icon on your desktop and double click on it.<br>\n<br>\nIf you're using the trial version, you'll see this prompt. <br>\n<br>\n<a href=\"http://www.recordforall.com/videos/how-to-add-remove-files.htm\">How to Add and Remove Files to RecordForAll</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Content Syndication",
+        "link": "http://www.feedforall.com/blog.htm#883",
+        "author": "",
+        "publishedDate": "Thu, 21 Jul 2016 06:00:00 -0700",
+        "contentSnippet": "It is All About Content Syndication\n\nCreating Content\nNew websites are being launched daily. In order to compete, webmasters ...",
+        "content": "It is All About Content Syndication<br>\n<br>\nCreating Content<br>\nNew websites are being launched daily. In order to compete, webmasters need to find alternative ways of producing themed websites. Highly focused articles are often sought by wembasters. Why? Because content on the web is still king! In order to attract search engines and site visitors, webmasters rely heavily on providing new, innovative and fresh content. If the web site content is rich, visitors will come. If the website content is updated regularly, visitors will return. When evaluating a website's traffic it is easy to see that the low cost of syndicated content can increase a website's value. Sites that contain multiple pages related to a specific topic increase the likelihood of being 'found' when a variety of search phrases are used for that topic.<br>\n<br>\n<a href=\"http://www.feedforall.com/content-syndication.htm\">Content Syndication</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Publicize Your RSS Feed",
+        "link": "http://www.feedforall.com/blog.htm#882",
+        "author": "",
+        "publishedDate": "Tue, 19 Jul 2016 06:00:00 -0700",
+        "contentSnippet": "There is little argument from webmasters and publishers that RSS brings in traffic. So once you've made the leap and created a ...",
+        "content": "There is little argument from webmasters and publishers that RSS brings in traffic. So once you've made the leap and created a feed, how do you tell your visitors about the feed?<br>\n<br>\n <br>\n1. Submit Your RSS Feed to RSS Directories. <br>\nThis will not only increase the number of sites linking to your website and increasing your link popularity, it will also increase the RSS feeds profile. A number of RSS search engines and RSS directories exist that allow you to freely submit RSS feeds. Feeds are generally categorized and grouped together by subject. Web surfers looking for RSS feeds about a specific subject will often search the RSS directories, to locate a feed that matches their specific criteria. Topic specific RSS feed and podcasting directories are also emerging. Choose a web feed's category carefully and only submit relevant feeds to topic specific directories.<br>\n<br>\n<a href=\"http://www.feedforall.com/publicize-your-rss-feed.htm\">Publicize Your RSS Feed</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "RSS2HTML Script",
+        "link": "http://www.feedforall.com/blog.htm#881",
+        "author": "",
+        "publishedDate": "Mon, 18 Jul 2016 06:00:20 -0700",
+        "contentSnippet": "In addition to making your RSS feed available to your visitors for use with their RSS Feed Reader, as a webmaster you may also ...",
+        "content": "In addition to making your RSS feed available to your visitors for use with their RSS Feed Reader, as a webmaster you may also want to make the same feed available on your website for viewing with a regular web browser. <br>\n<br>\nThere are several ways to do this, some have advantages or disadvantages compared to others. The best solution is one where the webpage is automatically updated on-the-fly, is easily spidered by search engine robots, and easy to implement. <br>\n<br>\nTo attain this optimal solution, the developers of FeedForAll have created a free RSS to HTML PHP script, aptly named RSS2HTML. When used, this script will allow you to create webpages that will always display the most current information from your RSS feed, and because the resulting page is pure HTML, it will be in a format friendly to search engine robots.<br>\n<br>\n<a href=\"http://www.feedforall.com/free-php-script.htm\">RSS2HTML Script</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Podcasting Just Might Be the Tool to Revolutionize Education",
+        "link": "http://www.feedforall.com/blog.htm#880",
+        "author": "",
+        "publishedDate": "Sat, 16 Jul 2016 06:00:00 -0700",
+        "contentSnippet": "Schools all over the country have flocked to podcasting as a new medium to assist the teaching profession. Professors are using ...",
+        "content": "Schools all over the country have flocked to podcasting as a new medium to assist the teaching profession. Professors are using podcasts to instruct students and get their messages out. Podcasting is not restricted to one educational sector, professors at prestigious colleges from Bentley to Purdue have flocked to this medium.<br>\n<br>\n <a href=\"http://www.feedforall.com/podcasting-revolutionize-education.htm\">Podcasting Just Might Be the Tool to Revolutionize Education</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Re-Using Content",
+        "link": "http://www.feedforall.com/blog.htm#879",
+        "author": "",
+        "publishedDate": "Thu, 14 Jul 2016 06:00:00 -0700",
+        "contentSnippet": "Repurposing content is not a terribly new concept. Webmasters that picked up on the trend have benefited from traffic surges ...",
+        "content": "Repurposing content is not a terribly new concept. Webmasters that picked up on the trend have benefited from traffic surges for a while now. Repurposing content is all about presenting the same content in a variety of different ways, or using different mediums to present the same content. Webmasters can manipulate content in order to provide the same content in any number of different formats. <br>\n<br>\nWhy would publishers want to do this? There are a number of benefits to repurposing content, not the least of which is that it allows customers to select the format they wish to access your information. <br>\n<br>\n<a href=\"http://www.feedforall.com/re-using-content.htm\">Re-Using Content</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Hallmarks of a Good Podcast",
+        "link": "http://www.feedforall.com/blog.htm#878",
+        "author": "",
+        "publishedDate": "Tue, 12 Jul 2016 06:00:00 -0700",
+        "contentSnippet": "There are many, many things that separate a good podcast from all the rest. Here are a few to consider... \nRecording ...",
+        "content": "There are many, many things that separate a good podcast from all the rest. Here are a few to consider... <br>\nRecording Quality<br>\n<br>\nThe quality of the recording is probably the most critical component of a podcast. A good podcast is easy to understand, and should be recorded at a volume level that makes it easy for listeners to hear all that is said.<br>\n<br>\n<b>Sound Balance</b><br>\n<br>\nAdding background music polishes a podcast, but be careful that the music does not overpower the primary content. The background music should be subtle and not distracting. Create a balance that does not compromise the quality of the recording. Also, be sure that the music is not the focal point of a podcast show, unless the topic is about the music -- the emphasis should be on the primary content, and not on the musical arrangements.<br>\n<br>\n<a href=\"http://www.feedforall.com/hallmarks-of-a-good-podcast.htm\">Hallmarks of a Good Podcast</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Podcasting for Business",
+        "link": "http://www.feedforall.com/blog.htm#877",
+        "author": "",
+        "publishedDate": "Sun, 10 Jul 2016 06:00:00 -0700",
+        "contentSnippet": "Regardless of the size of your business, or whether your company is public, private, a government agency, or a non-profit... ...",
+        "content": "Regardless of the size of your business, or whether your company is public, private, a government agency, or a non-profit... there is little doubt that you should consider podcasting. Podcasting is a 21st century medium, and has proven that it is far more than just a passing fad.<br>\nWhat is podcasting?<br>\n<br>\nPodcasting is a relatively new communication medium. Podcasting's increasing popularity and low cost of entry makes it a great communication and promotional channel for companies to experiment with.<br>\n<br>\n<a href=\"http://www.feedforall.com/podcasting-for-businesses.htm\">Podcasting for Business</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "13 Tips to Maintaining an RSS Feed Subscriber Base",
+        "link": "http://www.feedforall.com/blog.htm#876",
+        "author": "",
+        "publishedDate": "Thu, 07 Jul 2016 06:00:00 -0700",
+        "contentSnippet": "You have an RSS feed and you have worked hard to get the word out. According to your logs you have subscribers! Now the hard ...",
+        "content": "You have an RSS feed and you have worked hard to get the word out. According to your logs you have subscribers! Now the hard part: how to retain the subscribers to your RSS feed. Follow these simple steps to insure that your subscriber base will grow. <br>\n<br>\n<b>1. Original Content </b><br>\nA consistent stream of original content will do well to earn subscribers loyalty. The best RSS feeds provide content that is compelling and unique. Do not rehash existing content, look for a unique angle or spin if you wish to cover something that is hot in the blogosphere.<br>\n<br>\n<a href=\"http://www.feedforall.com/tips-for-maintaining-subscribers.htm\">13 Tips to Maintaining an RSS Feed Subscriber Base</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Why Niche RSS Feeds Matter",
+        "link": "http://www.feedforall.com/blog.htm#875",
+        "author": "",
+        "publishedDate": "Tue, 05 Jul 2016 06:00:00 -0700",
+        "contentSnippet": "Just as the second generation of search engines and directories evolved into niche topic specific portals we are seeing the ...",
+        "content": "Just as the second generation of search engines and directories evolved into niche topic specific portals we are seeing the same occur in the area of RSS feed directories and search engines. While some directories are admittedly more niche than others the trend is obvious. <br>\nFinancial Industry<br>\nIf you are in the finance industry you can monitor currency exchange rates, bank rates and track investments using RSS feeds. Financial institutions have found RSS to be an optimum way to communicate CD rates, interest rates, currency conversions, and even investors are using to monitor stocks. Use RSS to track currency conversions, stocks, bonds, bank rates and other financial related information.<br>\n<br>\n<a href=\"http://www.feedforall.com/niche-feeds.htm\">Why Niche RSS Feeds</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Places to Get Ideas for Blog Posts",
+        "link": "http://www.feedforall.com/blog.htm#874",
+        "author": "",
+        "publishedDate": "Fri, 01 Jul 2016 06:00:00 -0700",
+        "contentSnippet": "The best blogs and feeds are those that contain unique, fresh, compelling, content. So where do these prolific posters get ...",
+        "content": "The best blogs and feeds are those that contain unique, fresh, compelling, content. So where do these prolific posters get their ideas? I talked to a handful of bloggers to determine where their inspiration originated for their content. <br>\n<br>\nNot surprisingly, ideas for blog posts or RSS feed items originate or are influenced by other web content. The following are venues for finding your online muse: <br>\n<br>\n<b>1.Google News </b><br>\nMonitor Google News for keywords related to your industry. If you find a story you disagree with or wholeheartedly agree with write about it. Add your thoughts, and editorialize the content. This does not mean you should just repost Google news summaries. The value is not only in the news aggregation, but in the commentary that you provide. Tie news items to specific events, conditions, or the impact of specific news on the industry. Adding a view point or reference to a news article adds genuine value. <br>\n<br>\n<a href=\"http://www.feedforall.com/blog-post-ideas.htm\">Places to Get Ideas for Blog Posts</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Audio File Optimization",
+        "link": "http://www.feedforall.com/blog.htm#873",
+        "author": "",
+        "publishedDate": "Wed, 29 Jun 2016 06:00:00 -0700",
+        "contentSnippet": "Optimize your audio files to increase their popularity, just as you would optimize a website. Audio search engines are becoming ...",
+        "content": "Optimize your audio files to increase their popularity, just as you would optimize a website. Audio search engines are becoming more advanced as audio files become more commonplace on the Internet. Here are some tips to optimize your audio offerings... <br>\n<br>\n<b>1. Optimize Landing Page</b><br>\n<br>\nCreate a landing page for the audio files. The landing page should explain the audio content and encourage subscriptions. Outline the steps the visitor should take in order to subscribe or listen to the audio file. Make an effort to interact with the visitor on the landing page, and make it as easy as possible for them to subscribe or listen to your podcast. <br>\n<br>\n<a href=\"http://www.feedforall.com/audio-file-optimization-tips.htm\">Audio File Optimization</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "RSS Filter",
+        "link": "http://www.feedforall.com/blog.htm#872",
+        "author": "",
+        "publishedDate": "Mon, 27 Jun 2016 06:00:00 -0700",
+        "contentSnippet": "RSSFilter is a PHP script that filters the contents of an RSS feed. The filters can be defined by the publisher so that the ...",
+        "content": "RSSFilter is a PHP script that filters the contents of an RSS feed. The filters can be defined by the publisher so that the resulting RSS feed contains only the information they want. RSSFilter uses rules to filter the items that are included from a feed in the resulting feed. <br>\n<br>\n<a href=\"http://www.feedforall.com/rssfilter.htm\">RSS Filter</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "How to Conduct a Podcast Interview",
+        "link": "http://www.feedforall.com/blog.htm#871",
+        "author": "",
+        "publishedDate": "Thu, 16 Jun 2016 06:00:00 -0700",
+        "contentSnippet": "Conducting a successful podcast interview can be a tricky proposition for a podcaster starting out. Once you have determined ...",
+        "content": "Conducting a successful podcast interview can be a tricky proposition for a podcaster starting out. Once you have determined individuals that will appeal to your target audience contact potential interviewees and arrange a time to conduct the interview. Following this guide will insure that the interview goes off without a hitch.<br>\n<br>\n<b>1. Prepare Questions in Advance </b><br>\nPrepare a list of questions prior to the interview, contemplate possible follow-up questions based on the expected responses. Create a list of notes along with the questions that are accessible during the interview and will help you direct the conversation.<br>\n<br>\n<a href=\"http://www.feedforall.com/how-to-conduct-podcast-interview.htm\">How to Conduct a Podcast Interview</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Great Ideas for Blog Post Topics",
+        "link": "http://www.feedforall.com/blog.htm#870",
+        "author": "",
+        "publishedDate": "Tue, 14 Jun 2016 06:00:00 -0700",
+        "contentSnippet": "26 Great Ideas for Blog Posts!\nBlogs have increased in popularity because they provide a steady stream of new and unique ...",
+        "content": "<b>26 Great Ideas for Blog Posts!</b><br>\nBlogs have increased in popularity because they provide a steady stream of new and unique content. The only issue presented by this quality of blogs is that it may become difficult for those who run blogs to think of interesting and novel posts. If you have jumped on the blogging bandwagon but suffer writer's block, do not panic: we have created a list of 26 ideas for blog posts.<br>\n<br>\n<b>1. Make it visual. </b><br>\nInclude a photo or other graphic in a blog post to break up the text, attract your reader's interest, or help illustrate a point. Better yet, talk about the image you have included to further incorporate it into the post.<br>\n<br>\n<a href=\"http://www.feedforall.com/great-ideas-for-blog-post-topics.htm\">26 Great Ideas for Blog Posts!</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "10 Podcast Tips To A Great Sound",
+        "link": "http://www.feedforall.com/blog.htm#869",
+        "author": "",
+        "publishedDate": "Sun, 12 Jun 2016 06:00:05 -0700",
+        "contentSnippet": "What defines a good podcast? Make no mistake -- there is a difference between a good podcast and a not-so-good podcast. A ...",
+        "content": "What defines a good podcast? Make no mistake -- there is a difference between a good podcast and a not-so-good podcast. A high-caliber podcast is much more than just decent content. The sound quality, and the way a podcast is recorded, will impact the value of the podcast as well. Podcast structure and pre-planning are also important; do not skimp on the production, as it too can make or break a podcast. <br>\n<br>\nPodcast production takes effort, but anything worth doing is worth doing right. Use these tips to help produce a quality podcast that will be distinguished above other related podcasts... <br>\n<br>\n<a href=\"http://www.feedforall.com/top-podcasting-great-sound.htm\">10 Podcast Tips to a Great Sound</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Attention Getting Blog Posts",
+        "link": "http://www.feedforall.com/blog.htm#868",
+        "author": "",
+        "publishedDate": "Fri, 10 Jun 2016 06:00:00 -0700",
+        "contentSnippet": "Blogs are now a dime a dozen, and bloggers need to make their blog posts stand out. Developing a blog following is not as easy ...",
+        "content": "Blogs are now a dime a dozen, and bloggers need to make their blog posts stand out. Developing a blog following is not as easy as it once was. Learn how to write blog posts that attract readers and retain their attention. Follow these guidelines to cultivate readers... <br>\n<br>\n<a href=\"http://www.feedforall.com/attention-getting-blog-posts.htm\">Attention Getting Blog Posts</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Text to Podcast",
+        "link": "http://www.feedforall.com/blog.htm#867",
+        "author": "",
+        "publishedDate": "Wed, 08 Jun 2016 06:00:00 -0700",
+        "contentSnippet": "Instant Content; Converting a Text Article to a Podcast\n\nWe are taught to recycle paper, cans, bottles and plastic but ...",
+        "content": "Instant Content; Converting a Text Article to a Podcast<br>\n<br>\nWe are taught to recycle paper, cans, bottles and plastic but marketers rarely discuss the value of repackaging and repurposing content. Publishers and marketers alike have embraced content syndication and RSS but few have considered the value beyond the actual syndication. Consider an alternative communication channel that reaches a new or different audience. <br>\n<br>\nRepurposing and repackaging content or information so that it can be consumed through a variety of mediums is not a new concept. Many businesses today sight increased communication as a common goal. Cost conscious businesses with tight budges are often interested in minimizing work loads and cost, while increasing communication. By presenting the same information in different ways and formats, businesses are able to increase the reach and communication, while remaining cost conscious. <br>\n<br>\n<a href=\"http://www.feedforall.com/text-to-podcast.htm\">Text to Podcast</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Tools for Podcasting",
+        "link": "http://www.feedforall.com/blog.htm#866",
+        "author": "",
+        "publishedDate": "Mon, 06 Jun 2016 06:00:00 -0700",
+        "contentSnippet": "Podcasting is increasing in popularity and, realizing that many are interested in providing audio content in a podcast, we have ...",
+        "content": "Podcasting is increasing in popularity and, realizing that many are interested in providing audio content in a podcast, we have assembled a collection of tools that make creation, promotion and listening to podcasts a little easier. <br>\n<br>\n<a href=\"http://www.feedforall.com/tools-for-podcasting.htm\">Tools for Podcasting</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "RSS Scripts Directory",
+        "link": "http://www.feedforall.com/blog.htm#865",
+        "author": "",
+        "publishedDate": "Sat, 04 Jun 2016 06:00:00 -0700",
+        "contentSnippet": "Access means that you can use all of the directory scripts for an unlimited amount of time. The RSS Scripts directory currently ...",
+        "content": "Access means that you can use all of the directory scripts for an unlimited amount of time. The RSS Scripts directory currently includes the following scripts.<br>\n<br>\n<a href=\"http://www.feedforall.com/scripts-directory.htm\">RSS Scripts Directory</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Podcasting Bundle",
+        "link": "http://www.feedforall.com/blog.htm#864",
+        "author": "",
+        "publishedDate": "Thu, 02 Jun 2016 06:00:00 -0700",
+        "contentSnippet": "RecordForAll and FeedForAll makes it simple to record audio files, layer audio files, edit audio files and publish podcast ...",
+        "content": "RecordForAll and FeedForAll makes it simple to record audio files, layer audio files, edit audio files and publish podcast feeds. <br>\n<br>\n<a href=\"http://www.recordforall.com/podcasting-bundle.htm\">Podcasting Bundle</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Converting RSS Feeds to HTML",
+        "link": "http://www.feedforall.com/blog.htm#863",
+        "author": "",
+        "publishedDate": "Mon, 30 May 2016 06:00:00 -0700",
+        "contentSnippet": "Many webmasters have realized the benefit of using RSS to dynamically update websites. This means that the website content ...",
+        "content": "Many webmasters have realized the benefit of using RSS to dynamically update websites. This means that the website content automatically changes when the RSS feed is updated. This allows for webmasters to serve dynamic content or a mixture of static and dynamic content on their website. <br>\n<br>\n<a href=\"http://www.feedforall.com/converting-rss-to-html.htm\">Converting RSS Feeds to HTML</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Etiquette for RSS Feeds",
+        "link": "http://www.feedforall.com/blog.htm#862",
+        "author": "",
+        "publishedDate": "Sat, 28 May 2016 06:00:00 -0700",
+        "contentSnippet": "The arguments continue to rage over the ambiguities in the RSS specifications. But the fact is: RSS is here to stay, and the ...",
+        "content": "The arguments continue to rage over the ambiguities in the RSS specifications. But the fact is: RSS is here to stay, and the current defined RSS 2.0 specification is likely going to be as good as it is going to get. Attempts have been made to create \"best practice\" documents and specification clarifications. We felt it would be helpful to provide general guidelines for those constructing an RSS 2.0 feed. In general, the following are guidelines for constructing an RSS feed. It is good to get into the habit of validating the RSS feed, either with software, or with an online validator. <br>\n<br>\n<a href=\"http://www.feedforall.com/etiquette-for-feeds.htm\">Etiquette for RSS Feeds</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "How to Get Ideas for RSS Feeds",
+        "link": "http://www.feedforall.com/blog.htm#861",
+        "author": "",
+        "publishedDate": "Thu, 26 May 2016 06:00:00 -0700",
+        "contentSnippet": "How do you get ideas for blog posts and RSS feed posts?\n\nThe best blogs and feeds are those that contain unique, fresh, ...",
+        "content": "How do you get ideas for blog posts and RSS feed posts?<br>\n<br>\nThe best blogs and feeds are those that contain unique, fresh, compelling, content. So where do these prolific posters get their ideas? I talked to a handful of bloggers to determine where their inspiration originated for their content. <br>\nNot surprisingly, ideas for blog posts or RSS feed items originate or are influenced by other web content. The following are venues for finding your online muse: <br>\n<br>\n<a href=\"http://www.feedforall.com/ideas-for-rss-feeds.htm\">How to Get Ideas for RSS Feeds</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "RSS Tools",
+        "link": "http://www.feedforall.com/blog.htm#860",
+        "author": "",
+        "publishedDate": "Tue, 24 May 2016 06:00:00 -0700",
+        "contentSnippet": "Considering the ever-increasing support for RSS in online communities, we have compiled a list of resources and products that ...",
+        "content": "Considering the ever-increasing support for RSS in online communities, we have compiled a list of resources and products that will benefit webmasters, web surfers and publishers in their quest to understand the power of RSS. RSS has rapidly become an alternative communication venue. In order to understand the full benefits, consider utilizing some of the following tools and resources. <br>\n<br>\n<a href=\"http://www.feedforall.com/rss-tools.htm\">RSS Tools</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "FutureRSS",
+        "link": "http://www.feedforall.com/blog.htm#859",
+        "author": "",
+        "publishedDate": "Sun, 22 May 2016 06:00:53 -0700",
+        "contentSnippet": "The future-rss.php script is used to automatically delay the publication of Items in an RSS feed. This allows Items in a RSS ...",
+        "content": "The future-rss.php script is used to automatically delay the publication of Items in an RSS feed. This allows Items in a RSS feed to be created ahead of time, and then slowly released over a period of time. Many people have tried to set the PubDate field on their RSS feed Items to a future date and time, in an attempt to have that particular item become 'visible to their feeds subscribers on that particular date and time. Unfortunately, they will soon find out that many RSS readers and aggregators don't honor future PubDates, and immediately show all their feed's items. The future-rss.php script 'hides' the future items from RSS feed readers and aggregators, until their PubDate becomes current. <br>\n<br>\n<a href=\"http://www.feedforall.com/future-rss.htm\">FutureRSS</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Increase Your RSS Feed Subscribers",
+        "link": "http://www.feedforall.com/blog.htm#858",
+        "author": "",
+        "publishedDate": "Fri, 20 May 2016 06:00:00 -0700",
+        "contentSnippet": "Growing subscribers of your RSS feed will expand your reach. Put the appropriate effort into marketing your RSS feed, so you ...",
+        "content": "Growing subscribers of your RSS feed will expand your reach. Put the appropriate effort into marketing your RSS feed, so you can increase adoption and spread the message contained in the RSS feed.<br>\nFeed Validation<br>\n<br>\nMake sure that the feed is properly formed. Some RSS readers and aggregators will be unable to compensate or read an RSS feed that is not correctly formed. There are both web-based and desktop feed validation tools available that can help determine whether an RSS feed is properly formatted or not. After you edit the feed, be sure to spend a few minutes validating the feed. <br>\n<br>\n<a href=\"http://www.feedforall.com/increase-rss-feed-subscribers.htm\">Increase Your RSS Feed Subscribers</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "RSSmesh",
+        "link": "http://www.feedforall.com/blog.htm#857",
+        "author": "",
+        "publishedDate": "Wed, 18 May 2016 06:00:00 -0700",
+        "contentSnippet": "The rssMesh.php script allows you to produce an RSS feed by taking the latest items from multiple feeds. \n\nThe RSSmesh ...",
+        "content": "The rssMesh.php script allows you to produce an RSS feed by taking the latest items from multiple feeds. <br>\n<br>\nThe RSSmesh configuration is controlled by a configuration file for each feed to be produced.<br>\n<br>\n<a href=\"http://www.feedforall.com/rssmesh.htm\">RSSmesh</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "SQL2RSS",
+        "link": "http://www.feedforall.com/blog.htm#856",
+        "author": "",
+        "publishedDate": "Mon, 16 May 2016 06:00:00 -0700",
+        "contentSnippet": "The sql2rss.php script allows you to easily create rss feeds from SQL databases. The script currently supports the conversion ...",
+        "content": "The sql2rss.php script allows you to easily create rss feeds from SQL databases. The script currently supports the conversion of MySQL databases to RSS feeds. <br>\n<br>\nWhen using SQL2RSS the publisher has complete control over the content in the resulting RSS feed. Administrators and publishers control the database query which allows them the flexibility to determine what data is inserted into the RSS feeds from the database.<br>\n<br>\n<a href=\"http://www.feedforall.com/sql2rss.htm\">SQL2RSS</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Blog Tips for SEO",
+        "link": "http://www.feedforall.com/blog.htm#855",
+        "author": "",
+        "publishedDate": "Fri, 13 May 2016 06:00:00 -0700",
+        "contentSnippet": "Blogs are the current rage, and many webmasters have blogs but fail to use their blog to it's full potential. Blogs provide a ...",
+        "content": "Blogs are the current rage, and many webmasters have blogs but fail to use their blog to it's full potential. Blogs provide a steady stream of fresh content, and if this content is written and managed properly, blogs have the ability to increase a website's ranking in the search engines. <br>\n<br>\n<b>1. Host Your Own Blog </b><br>\nIn order to prosper from a blog, be sure to host it on your own domain. Hosting the blog on your own server will maximize the links to your website. Link popularity is one of the factors search engines use to rank websites. Resist the urge to use free hosting services, do not give away your link popularity!<br>\n<br>\n<a href=\"http://www.feedforall.com/blog-tips-for-seo.htm\">Blog Tips for SEO</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Tips to Optimize Video Podcasts",
+        "link": "http://www.feedforall.com/blog.htm#854",
+        "author": "",
+        "publishedDate": "Tue, 10 May 2016 22:59:00 -0700",
+        "contentSnippet": "Optimize Video Podcasts\nIt does not matter what you call them: vodcasts, vidcasts, videocasting, or video podcasting... there ...",
+        "content": "<b>Optimize Video Podcasts</b><br>\nIt does not matter what you call them: vodcasts, vidcasts, videocasting, or video podcasting... there are a few behind-the-scenes actions you can take to help attract more attention to your video productions. Just like websites, it does not matter how amazing the content is if interested people are unable to find it.<br>\nUse the following suggestions to help increase the exposure your videos receive... <br>\n<br>\n<a href=\"http://www.feedforall.com/tips-to-optimize-video-podcasts.htm\">Tips to Optimize Video Podcasts</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Social Bookmarking Tips",
+        "link": "http://www.feedforall.com/blog.htm#853",
+        "author": "",
+        "publishedDate": "Mon, 09 May 2016 06:00:00 -0700",
+        "contentSnippet": "Good Things to Social Bookmark\nIt can be tricky to predict what content will perform well on social bookmarking websites. The ...",
+        "content": "<b>Good Things to Social Bookmark</b><br>\nIt can be tricky to predict what content will perform well on social bookmarking websites. The interests of our democratic populace are widespread and constantly changing. Webpages, podcasts, and images which are deemed more newsworthy, humorous, or intriguing often steal the spotlight. Knowing how to present content on social bookmarking websites can help internet marketers stand out.<br>\n<br>\n<a href=\"http://www.feedforall.com/social-bookmarking-tips.htm\">Social Bookmarking Tips</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Search Engine Optimization for RSS",
+        "link": "http://www.feedforall.com/blog.htm#852",
+        "author": "",
+        "publishedDate": "Fri, 06 May 2016 14:04:44 -0700",
+        "contentSnippet": "Tips for Helping Your RSS Feed Perform!\nIn some ways RSS is very similar to HTML, the language commonly used to create ...",
+        "content": "<b>Tips for Helping Your RSS Feed Perform!</b><br>\nIn some ways RSS is very similar to HTML, the language commonly used to create websites. Just as with HTML, webmasters using traditional search engine optimization tactics when creating an RSS feed will find that their RSS feed receives additional exposure and interest. <br>\n<br>\n<a href=\"http://www.feedforall.com/seo-for-rss.htm\">Search Engine Optimization for RSS</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Dangers in Blogging",
+        "link": "http://www.feedforall.com/blog.htm#851",
+        "author": "",
+        "publishedDate": "Wed, 04 May 2016 06:00:00 -0700",
+        "contentSnippet": "have heard many a blogger say that blogging fills a need. While blogging provides a humanizing effect on news and journaling, ...",
+        "content": "have heard many a blogger say that blogging fills a need. While blogging provides a humanizing effect on news and journaling, it also opens a window into personal lives. The details shared in blogs were once only available to a select group of friends, and while blogging has become common place, it has risks that should not be ignored. <br>\n<br>\nCyberstalking is a new phenomenon that allows anonymous online stalkers to prowl for victims. Online bloggers traditionally provide personal details about their lives. <br>\n<br>\n<a href=\"http://www.feedforall.com/dangers-blogging.htm\">Dangers in Blogging</a>",
+        "categories": [ ]
+      },
+      {
+        "title": "Videocasting Tutorial",
+        "link": "http://www.feedforall.com/blog.htm#850",
+        "author": "",
+        "publishedDate": "Mon, 02 May 2016 06:00:00 -0700",
+        "contentSnippet": "\n\nVideocasting Tutorial",
+        "content": "<br>\n<br>\n<a href=\"http://www.feedforall.com/videocasting-tutorial.htm\">Videocasting Tutorial</a>",
+        "categories": [ ]
+      }
+    ]
+  }
+]
